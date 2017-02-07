@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1486467418 source:c:\users\dany corbineau\documents\programmation maison\c\ssltest\main.c
+	<stdio.h>
+	<openssl/aes.h>
+
+1485473794 c:\program files (x86)\codeblocks\libs\openssl-1.1.0d-vs2015\include\openssl\aes.h
+	<openssl/opensslconf.h>
+	<stddef.h>
+
+1485473794 c:\program files (x86)\codeblocks\libs\openssl-1.1.0d-vs2015\include\openssl\opensslconf.h
+
